@@ -1,0 +1,29 @@
+
+
+アニー
+
+提案基本
+
+
+
+サーバ名	CPU	メモリ	HDD	OS	Web	PHP	Perl	DB	内容	ドメイン
+alive	Intel(R) Xeon(R) CPU E3110  @ 3.00GHz (2992.51-MHz 686-class CPU)	2GB	160GB	FreeBSD 7.2	Apache/1.3.41	4.4.9	5.8.9	MySQL 5.0.81	"プロバイダアカウント管理
+一部ホスティング
+DNS"	3
+maui	Intel Celeron (764.19-MHz 686-class CPU)	512MB	160GB	FreeBSD 4.10	Apache/2.0.55	4.4.1 	5.005_03	MySQL 4.0.23	プロバイダユーザ用CGI	
+steak	Intel Celeron (851.94-MHz 686-class CPU)	1GB	80GB	FreeBSD 4.10	Apache/1.3.41	4.4.1	5.005_03	MySQL 3.23.58	ホスティング	39
+steak2	Intel Celeron (601.37-MHz 686-class CPU)	256MB	40GB	FreeBSD 4.10	-	-	-	-	annie.co.jpメールサーバ	
+sauce2	Intel(R) Pentium(R) 4 CPU 3.20GHz	512MB	80GB	CentOS release 5.7	Apache/2.2.3	5.1.6	5.8.8	MySQL 5.0.77	ホスティング	27
+ninacart	Intel(R) Pentium(R) 4 CPU 2.80GHz (2800.12-MHz 686-class CPU)	1GB	160GB	FreeBSD 5.4	Apache/1.3.36	4.4.2	-	MySQL 4.1.21	ニナカートWebサーバ	
+ninacartDB	Intel(R) Xeon(TM) CPU 3.00GHz (3000.12-MHz K8-class CPU)	2GB	100GB	FreeBSD 6.1	-	5.2.0	-	MySQL 4.1.22	ニナカートDBサーバ	
+nina	Intel(R) Core(TM)2 Duo CPU     E4600  @ 2.40GHz (2394.01-MHz 686-class CPU)	2GB	160GB	FreeBSD 7.0	Apache/1.3.41	5.2.6	-	MySQL 5.0.67	ニナのケーキワールド	
+									パートナー委託サーバ	12
+									さくら	7
+									
+									
+									
+
+
+
+
+
